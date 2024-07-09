@@ -14,6 +14,8 @@
   <a href="#web">Web</a> &#xa0; | &#xa0;
 </p>
 
+🚧 Em Construção
+
 <br>
 
 # Next Level Week ✈️ Journey 
@@ -23,7 +25,7 @@ NLW Journey - é um aplicativo para . . .
 ### <img id="web" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**Stage 01: Frontend Web - ReactJs**_
   Neste módulo, foi desenvolvido uma aplicação web para . . .
 
-  🔗  [Web](https://github.com/RodrigoLuigi/NLW-Copa/tree/main/web#top)<br>
+  🔗  [Web]()<br>
  
 </br>
 
