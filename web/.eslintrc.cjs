@@ -10,7 +10,7 @@ module.exports = {
 	rules: {
 		'react-refresh/only-export-components': ['warn', { allowConstantExport: true }],
 		'prettier/prettier': ["error", {
-      'printWidth': 160,
+      'printWidth': 120,
       'tabWidth': 2,
       'singleQuote': true,
       'trailingComma': 'all',
