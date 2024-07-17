@@ -19,22 +19,29 @@
 ### Important links
 
 🔗 [API documentation](https://nlw-journey.apidocumentation.com/reference#tag/activities/post/trips/{tripId}/activities)<br>
-🔗 [Notion]([https://nlw-journey.apidocumentation.com/reference#tag/activities/post/trips/{tripId}/activities](https://www.notion.so/NLW-16-Journey-d65697b657d447359222bb7fe3f8aa68))<br>
-
+🔗 [Notion](<[https://nlw-journey.apidocumentation.com/reference#tag/activities/post/trips/{tripId}/activities](https://www.notion.so/NLW-16-Journey-d65697b657d447359222bb7fe3f8aa68)>)<br>
 
 <br>
 
 # Next Level Week ✈️ Journey
 
-NLW Journey - é um aplicativo para . . .
+NLW Journey - é um aplicativo para criar viajens planejadas, e convidar familiares e amigos para curtir juntos com um cronograma completo.
 
 # <br>:book: Módulos
 
 ### <img id="web" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**Stage 01: Frontend Web - ReactJs**_
 
-Neste módulo, foi desenvolvido uma aplicação web para . . .
+Neste módulo, foi desenvolvido uma aplicação web em **ReactJs + TypeScript** para poder cadastrar um novo planejamento de viajem, podendo adicionar amigos e familiares em uma lista de convidados e criar cronogramas de atividades que serão realizadas durante toda a viajem.
 
-🔗 [Web]()<br>
+🔗 [Web](https://github.com/RodrigoLuigi/nlw-journey/tree/main/web)<br>
+
+</br>
+
+### <img id="web" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**Stage 01: API - NodeJs**_
+
+Neste módulo, foi desenvolvido o sistema back-end em **NodeJs + TypeScript** para poder fazer as requisições do nosso front-end e realizar a incerção e manipulação dos dados no banco de dados SQlite utilizando Prisma.
+
+🔗 [NodeJs - API](https://github.com/RodrigoLuigi/nlw-journey/tree/main/api)<br>
 
 </br>
 
