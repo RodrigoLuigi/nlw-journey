@@ -18,5 +18,6 @@ module.exports = {
       'semi': true,
       'endOfLine': 'auto',
     }],
+		'camelcase': false
 	}
 }
