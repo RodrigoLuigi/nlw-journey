@@ -16,6 +16,10 @@
 
 🚧 Em Construção
 
+### Important links
+
+🔗 [API documentation](https://nlw-journey.apidocumentation.com/reference#tag/activities/post/trips/{tripId}/activities)<br>
+
 <br>
 
 # Next Level Week ✈️ Journey
