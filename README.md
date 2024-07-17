@@ -19,7 +19,7 @@
 ### Important links
 
 🔗 [API documentation](https://nlw-journey.apidocumentation.com/reference#tag/activities/post/trips/{tripId}/activities)<br>
-🔗 [Notion](<[https://nlw-journey.apidocumentation.com/reference#tag/activities/post/trips/{tripId}/activities](https://www.notion.so/NLW-16-Journey-d65697b657d447359222bb7fe3f8aa68)>)<br>
+🔗 [Notion](https://www.notion.so/NLW-16-Journey-d65697b657d447359222bb7fe3f8aa68)<br>
 
 <br>
 
