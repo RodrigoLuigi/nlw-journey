@@ -1,4 +1,4 @@
-<img id="top" src="./assets/Wallpaper - 1400x900.png" alt="nlw-journey" height="200px" width="100%"/>
+<img id="top" src="./Wallpaper - 1400x900.png" alt="nlw-journey" height="200px" width="100%"/>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/RodrigoLuigi/nlw-journey?color=56BEB8">
@@ -18,24 +18,26 @@
 
 <br>
 
-# Next Level Week ✈️ Journey 
+# Next Level Week ✈️ Journey
+
 NLW Journey - é um aplicativo para . . .
+
 # <br>:book: Módulos
 
 ### <img id="web" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**Stage 01: Frontend Web - ReactJs**_
-  Neste módulo, foi desenvolvido uma aplicação web para . . .
 
-  🔗  [Web]()<br>
- 
+Neste módulo, foi desenvolvido uma aplicação web para . . .
+
+🔗 [Web]()<br>
+
 </br>
 
-## :memo: Licença ##
- MIT License. Para mais detalhes veja em [LICENSE](./LICENSE).
+## :memo: Licença
+
+MIT License. Para mais detalhes veja em [LICENSE](./LICENSE).
 
 &#xa0;
 
-_**Feito por <a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_  👨‍🚀 :rocket:
-
+_**Feito por <a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_ 👨‍🚀 :rocket:
 
 <a href="#top">Back to top</a>
-
