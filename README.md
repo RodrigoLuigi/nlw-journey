@@ -37,7 +37,7 @@ Neste módulo, foi desenvolvido uma aplicação web em **ReactJs + TypeScript** 
 
 </br>
 
-### <img id="web" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**Stage 01: API - NodeJs**_
+### <img id="web" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**Stage 02: API - NodeJs**_
 
 Neste módulo, foi desenvolvido o sistema back-end em **NodeJs + TypeScript** para poder fazer as requisições do nosso front-end e realizar a incerção e manipulação dos dados no banco de dados SQlite utilizando Prisma.
 
