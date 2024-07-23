@@ -47,7 +47,7 @@ Neste módulo, foi desenvolvido o sistema back-end em **NodeJs + TypeScript** pa
 
 </br>
 
-## :memo: Licença
+## :memo: Licença 
 
 MIT License. Para mais detalhes veja em [LICENSE](./LICENSE).
 
