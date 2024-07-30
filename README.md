@@ -16,7 +16,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-🚧 Em Construção 🚧 
 
 ### Important links
 
